@@ -14,7 +14,7 @@ body{
     align-items: center;
     background-color: hsl(185, 75%, 39%);
     position: relative;
-    background-image: url(bg-pattern-top.svg), url(zbg-pattern-bottom.svg);
+    background-image: url(bg-pattern-top.svg), url(bg-pattern-bottom.svg);
     background-repeat: no-repeat;
     background-size: auto;
     min-height: 100vh;
